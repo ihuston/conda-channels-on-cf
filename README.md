@@ -8,6 +8,9 @@ In this repo I have included a [simple conda package](https://github.com/ihuston
 In my `environment.yml` file I add a new conda channel which references the local path to this directory,
 *at the time that Cloud Foundry installs the package*, which is `/tmp/app/vendor`.
 
+I also show how you can reference other conda channels such as [conda-forge](http://conda-forge.org)
+to get access to packages like [prettytable](https://github.com/adamlamers/prettytable).
+
 To try this out with your preferred CF host, 
 simply clone this repo, log in to CF, and `cf push`.
 

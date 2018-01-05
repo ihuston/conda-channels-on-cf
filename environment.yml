@@ -1,8 +1,10 @@
 name: myenv
 channels: 
   - /tmp/app/vendor 
+  - conda-forge
 dependencies:
   - python=3.6
   - flask
   - gunicorn
   - mypkg
+  - prettytable
