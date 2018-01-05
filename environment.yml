@@ -1,0 +1,8 @@
+name: myenv
+channels: 
+  - /tmp/app/vendor 
+dependencies:
+  - python=3.6
+  - flask
+  - gunicorn
+  - mypkg

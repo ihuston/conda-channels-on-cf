@@ -1,0 +1,55 @@
+{
+  "mypkg-0.0.1-py36_0.tar.bz2": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/mypkg-0.0.1-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "8ff1b8f14523fb78561d672fe984ed3169b5f79f703f9135f70b1287427fa557",
+        "size_in_bytes": 229
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mypkg-0.0.1-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "efe5a94a262b4669d291099990080a739eded11c9428b5e95b03864af1648dbc",
+        "size_in_bytes": 157
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mypkg-0.0.1-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mypkg-0.0.1-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "522d1a2a9a41a86428d20e1a1b619946245ad5a62a348890f1630a6316b69f68",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mypkg/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mypkg/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc4fc57c8451a71d8ddb638da2a6598aaeca103fd8a73bee2b2397a8606a2a47",
+        "size_in_bytes": 128
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mypkg/__pycache__/mypkg.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6bf54b25eec7110cd1985006df75399fd267024e0df77a24297b616603d9eb59",
+        "size_in_bytes": 236
+      },
+      {
+        "_path": "lib/python3.6/site-packages/mypkg/mypkg.py",
+        "path_type": "hardlink",
+        "sha256": "d3f1e634c6a6acb4920b3147efb19870111fd4d6463256dc5ac9f2e202239885",
+        "size_in_bytes": 93
+      }
+    ],
+    "paths_version": 1
+  }
+}
